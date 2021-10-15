@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dude0001&show_icons=true&locale=en" alt="dude0001" /></p>
 
-<p>(Created with<a href="https://github.com/rahuldkjain/github-profile-readme-generator">GitHub Profile README Generator</a>by<a href="https://github.com/rahuldkjainr">Rahul Jain</a>)</p>
+<p>Created with <a href="https://github.com/rahuldkjain/github-profile-readme-generator">GitHub Profile README Generator</a> by <a href="https://github.com/rahuldkjainr">Rahul Jain</a></p>
