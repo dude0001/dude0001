@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dude0001&label=Profile%20views&color=0e75b6&style=flat" alt="dude0001" /> </p>
 
-- 🔭 I’m currently working on [Debezium](https://github.com/debezium)
+- 🔭 I’m currently working on [Debezium](https://github.com/debezium/debezium), [DuckDB-WASM](https://github.com/duckdb/duckdb-wasm)
 
-- 🌱 I’m currently learning **Data Engineering, Docker, DynamoDB, Python, Spark**
+- 🌱 I’m currently learning **Python, Data Engineering, Kafka, Docker, Spark**
 
 - 💬 Ask me about **AWS, Terraform, C#, .NET, SQL Server**
 
